@@ -50,7 +50,7 @@ def save_companyInfo(sleep_time=1):
             if i == cnt:
                 break
             
-            #time.sleep(sleep_time)
+            time.sleep(sleep_time)
             r = req(url_base + companyCd[i])
             d = r['companyInfoResult']['companyInfo']
             all_data.append(d)
@@ -58,8 +58,3 @@ def save_companyInfo(sleep_time=1):
         save_json(all_data, file_path)
 
     return True
-
-def merge_companyInfo():
-    merge_data = []
-
-    file_path = f'data/movies/company/companyInfo/companyInfo_{i}.json'
