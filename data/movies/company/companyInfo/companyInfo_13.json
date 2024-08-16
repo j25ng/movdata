@@ -1,0 +1,6340 @@
+[
+    {
+        "companyCd": "20102512",
+        "companyNm": "플란드코코필름",
+        "companyNmEn": "Flan de Coco Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103696",
+        "companyNm": "플래쉬포인트",
+        "companyNmEn": "Flashpoint (I)",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104494",
+        "companyNm": "플래티넘 듄즈",
+        "companyNmEn": "Platinum Dunes",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20040638",
+                "movieNm": "텍사스 전기톱 연쇄살인사건",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104493",
+        "companyNm": "플랜테인 필름",
+        "companyNmEn": "Plantain Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102022",
+        "companyNm": "플랫폼 엔터테인먼트",
+        "companyNmEn": "Platform Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102707",
+        "companyNm": "플랫폼 프로덕션",
+        "companyNmEn": "Plattform Produktion",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103896",
+        "companyNm": "플랫필름",
+        "companyNmEn": "Pratfilm",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101802",
+        "companyNm": "플레닛 스튜디오 +1",
+        "companyNmEn": "PLANET Studyo+1",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104496",
+        "companyNm": "플레이톤",
+        "companyNmEn": "Playtone Co.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104495",
+        "companyNm": "플레이필름 프로덕션",
+        "companyNmEn": "Playfilm Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104498",
+        "companyNm": "플레임툰즈",
+        "companyNmEn": "Plymptoons",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104497",
+        "companyNm": "플룬지 픽쳐스",
+        "companyNmEn": "Plunge Pictures LLC",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20050191",
+                "movieNm": "오픈 워터",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102104",
+        "companyNm": "플릭피쳐",
+        "companyNmEn": "Flick Features ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102847",
+        "companyNm": "플립쉽필름",
+        "companyNmEn": "Flip Ship Films, Inc.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102481",
+        "companyNm": "피 포 픽쳐스",
+        "companyNmEn": "Pforpictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103948",
+        "companyNm": "피가로픽처스",
+        "companyNmEn": "Figaro Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103480",
+        "companyNm": "피그먼트필름",
+        "companyNmEn": "Figment Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104488",
+        "companyNm": "피그온 크릭 필름",
+        "companyNmEn": "Pigeon Creek Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102400",
+        "companyNm": "피니시필름파운데이션",
+        "companyNmEn": "Finnish Film Foundation",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "제공"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103303",
+        "companyNm": "피니싱더햇",
+        "companyNmEn": "Finishing the Hat ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101772",
+        "companyNm": "피닉스미디어",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102446",
+        "companyNm": "피데씨네:멕시코영화산업진흥기금",
+        "companyNmEn": "FIDECINE",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제공"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103471",
+        "companyNm": "피델라이트프로덕션",
+        "companyNmEn": "Fidelite Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20090897",
+                "movieNm": "꼬마 니콜라",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20060158",
+                "movieNm": "사랑도 흥정이 되나요?",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20060013",
+                "movieNm": "타임 투 리브",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103783",
+        "companyNm": "피라미드 프로덕션",
+        "companyNmEn": "Pyramide Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20050081",
+                "movieNm": "추방된 사람들",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101833",
+        "companyNm": "피라미드 필름 ",
+        "companyNmEn": "Pyramid Film INC",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103453",
+        "companyNm": "피름에크레스",
+        "companyNmEn": "Filmacres",
+        "ceoNm": "존 핸콕",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102125",
+        "companyNm": "피버프로덕션㈜",
+        "companyNmEn": "Fever Productions Inc.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104074",
+        "companyNm": "피쉬아이픽처스",
+        "companyNmEn": "Fisheye Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101857",
+        "companyNm": "피쉬아이필름",
+        "companyNmEn": "Fish Eye Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103452",
+        "companyNm": "피스트프로덕션리미티드",
+        "companyNmEn": "Feast Productions Limited",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104456",
+        "companyNm": "피아 코포레이션",
+        "companyNmEn": "PIA Corporation [jp]",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103470",
+        "companyNm": "피어 오펜하이머 프로덕션",
+        "companyNmEn": "Peer Oppenheimer Production Inc.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103464",
+        "companyNm": "피어메이커스스튜디오",
+        "companyNmEn": "Fearmakers Studios",
+        "ceoNm": "보 버클리",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20040653",
+                "movieNm": "엘리펀트",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103455",
+        "companyNm": "피어컴프로덕션㈜",
+        "companyNmEn": "Fear.Com Productions Ltd.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103069",
+        "companyNm": "피에르 그리즈 프로덕션",
+        "companyNmEn": "Pierre Grise Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104455",
+        "companyNm": "피에프피 필름",
+        "companyNmEn": "PFP Films Ltd.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103487",
+        "companyNm": "피엘드가이드필름",
+        "companyNmEn": "Field Guide Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104457",
+        "companyNm": "피엠 엔터테인먼트 그룹",
+        "companyNmEn": "PM Entertainment Group Inc.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19990283",
+                "movieNm": "인페르노 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19980197",
+                "movieNm": "랜드 오브 프리",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19980149",
+                "movieNm": "엑스트라 마리탈",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19980137",
+                "movieNm": "로드 앤드",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19980123",
+                "movieNm": "샌더",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19970191",
+                "movieNm": "대통령의위기 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19970079",
+                "movieNm": "빅 폴",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960239",
+                "movieNm": "다크 브리드 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960200",
+                "movieNm": "스카이 러너 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950186",
+                "movieNm": "2010 생존게임 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950255",
+                "movieNm": "사이버 트랙커 2 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950242",
+                "movieNm": "분노의 영웅 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950179",
+                "movieNm": "라스트 맨",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940305",
+                "movieNm": "제로 타겟 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101774",
+        "companyNm": "피카츄 프로젝트 99",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103717",
+        "companyNm": "피코스 드 유로파",
+        "companyNmEn": "Picos de Europa",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101947",
+        "companyNm": "피터 롬멜 프로덕션",
+        "companyNmEn": "Peter Rommel Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103517",
+        "companyNm": "피터 리히틀리 필름프로덕션",
+        "companyNmEn": "Peter Liechtli Filmproduktion",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102856",
+        "companyNm": "피터 바흐 필름",
+        "companyNmEn": "Peter Bech Film",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102574",
+        "companyNm": "피터 스탁하스 필름프로덕션",
+        "companyNmEn": "Peter Stockhaus Filmproduktion",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103739",
+        "companyNm": "피터 홀타우센",
+        "companyNmEn": "Peter Holthausen",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104483",
+        "companyNm": "피터스 엔터테인먼트",
+        "companyNmEn": "Peters Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19990227",
+                "movieNm": "와일드 와일드 웨스트",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100696",
+        "companyNm": "피터팬픽쳐스",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "수입사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20090688",
+                "movieNm": "웰컴",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20040784",
+                "movieNm": "시티 오브 갓",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102916",
+        "companyNm": "피토무비㈜",
+        "companyNmEn": "Fitto Movie Co. Ltd.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103108",
+        "companyNm": "피트프로덕션",
+        "companyNmEn": "FIT Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19950346",
+                "movieNm": "토탈 이클립스 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104118",
+        "companyNm": "피피엠",
+        "companyNmEn": "P.P.M co,LTD.,",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104491",
+        "companyNm": "픽사 애니메이션 스튜디오",
+        "companyNmEn": "Pixar Animation Studios",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20235974",
+                "movieNm": "인사이드 아웃 2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20207443",
+                "movieNm": "소울",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20100377",
+                "movieNm": "토이 스토리 3",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20090391",
+                "movieNm": "업",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20070264",
+                "movieNm": "라따뚜이",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20040745",
+                "movieNm": "인크레더블",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20000200",
+                "movieNm": "다이너소어",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20000069",
+                "movieNm": "토이 스토리 2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950366",
+                "movieNm": "토이 스토리 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102076",
+        "companyNm": "픽션워커프로덕션",
+        "companyNmEn": "Fictionworks Production",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102059",
+        "companyNm": "픽션필름",
+        "companyNmEn": "Fiction",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101958",
+        "companyNm": "픽쳐 북 무비",
+        "companyNmEn": "Picture Book Movies",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100273",
+        "companyNm": "픽쳐북무비스 ",
+        "companyNmEn": "Picture Book Movies",
+        "ceoNm": "김진아 ",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20061238",
+                "movieNm": "그 집 앞",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20061238",
+                "movieNm": "그 집 앞",
+                "companyPartNm": "해외세일즈사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101834",
+        "companyNm": "픽쳐스 오브 라이트 프로덕션즈",
+        "companyNmEn": "Pictures of Light Productions Inc. & Ranven West F",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103379",
+        "companyNm": "픽쳐스 팜",
+        "companyNmEn": "Picture Farm",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102768",
+        "companyNm": "핀&멜로우프로덕션",
+        "companyNmEn": "Fin & Mellow Production",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102427",
+        "companyNm": "핀란드:K-11",
+        "companyNmEn": "Finland:K-11",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102466",
+        "companyNm": "핀볼 필름",
+        "companyNmEn": "Pinball Films",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100854",
+        "companyNm": "필 프로덕션",
+        "companyNmEn": "Feel Production",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103474",
+        "companyNm": "필데브록",
+        "companyNmEn": "Fildebroc",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100528",
+        "companyNm": "필름 뱀피",
+        "companyNmEn": "Film Vampi",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103489",
+        "companyNm": "필름90",
+        "companyNmEn": "Film 90",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19940419",
+                "movieNm": "정글 헌팅 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950116",
+                "movieNm": "노출된 유혹 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940408",
+                "movieNm": "뉴 끌로드 부인 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103034",
+        "companyNm": "필름E-엠루즈",
+        "companyNmEn": "Film E-Emrooz",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103555",
+        "companyNm": "필름가드",
+        "companyNmEn": "Filmguard",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102460",
+        "companyNm": "필름갓프로덕션",
+        "companyNmEn": "Filmgod Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103901",
+        "companyNm": "필름넷",
+        "companyNmEn": "FilmNet",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100401",
+        "companyNm": "필름놀이(주)",
+        "companyNmEn": "Film Norry ",
+        "ceoNm": "박성훈",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20060014",
+                "movieNm": "썬데이 서울",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103521",
+        "companyNm": "필름로만프로덕션",
+        "companyNmEn": "Film Roman Productions",
+        "ceoNm": "필 로만",
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "20040764",
+                "movieNm": "마이 퍼스트 미스터",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103512",
+        "companyNm": "필름맥스",
+        "companyNmEn": "Film Max",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102649",
+        "companyNm": "필름메이티스엔터테인먼트",
+        "companyNmEn": "FilmMates Entertainmnet",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103494",
+        "companyNm": "필름방콕",
+        "companyNmEn": "Film Bangkok",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100033",
+        "companyNm": "필름뱅크(주)",
+        "companyNmEn": "FilmBank Co., Ltd.",
+        "ceoNm": "이경헌",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20050029",
+                "movieNm": "엄마",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20060020",
+                "movieNm": "스테이션 에이전트",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20040769",
+                "movieNm": "스노우 워커",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20040681",
+                "movieNm": "카르멘",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20040654",
+                "movieNm": "진주 귀걸이를 한 소녀",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20040584",
+                "movieNm": "대단한 유혹",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20040445",
+                "movieNm": "곰이 되고 싶어요",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20040808",
+                "movieNm": "노보",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020001",
+                "movieNm": "신과 함께 가라",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020097",
+                "movieNm": "이투마마",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020195",
+                "movieNm": "디오스",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020153",
+                "movieNm": "51번째주",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020082",
+                "movieNm": "세션 나인",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20010064",
+                "movieNm": "스물넷",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20010076",
+                "movieNm": "뮤턴트 에일리언",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20010009",
+                "movieNm": "GO(고)",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20010274",
+                "movieNm": "시크릿 러브",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20010066",
+                "movieNm": "비포 나잇 폴스",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20010063",
+                "movieNm": "리빙 하바나",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020096",
+                "movieNm": "모탈 트랜스퍼",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20040804",
+                "movieNm": "유 캔 카운트 온 미",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20000004",
+                "movieNm": "찍히면 죽는다",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20000305",
+                "movieNm": "레드 레터",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103533",
+        "companyNm": "필름아이바스트",
+        "companyNmEn": "Film i Vast",
+        "ceoNm": "토마스 에스킬슨",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20000122",
+                "movieNm": "언더 더 선",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101776",
+        "companyNm": "필름아이즈",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102761",
+        "companyNm": "필름알바트로스E라이시네마",
+        "companyNmEn": "Film Albatros E Rai Cinema",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103786",
+        "companyNm": "필름언리미티드",
+        "companyNmEn": "Film Unlimited",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20000190",
+                "movieNm": "진심화",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950345",
+                "movieNm": "신불료정 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102584",
+        "companyNm": "필름엑스퍼트",
+        "companyNmEn": "Film Experts",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103324",
+        "companyNm": "필름엔젤스튜디오",
+        "companyNmEn": "Film Angels Studio",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103538",
+        "companyNm": "필름엔진",
+        "companyNmEn": "FilmEngine",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20040700",
+                "movieNm": "나비효과",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103527",
+        "companyNm": "필름워크샵(주)",
+        "companyNmEn": "Film Workshop Ltd.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19980240",
+                "movieNm": "넉오프",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19930087",
+                "movieNm": "동방불패 2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19919020",
+                "movieNm": "내일은 참피온",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103585",
+        "companyNm": "필름웍스",
+        "companyNmEn": "Filmwerks",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100822",
+        "companyNm": "필름이즈데드 프로덕션",
+        "companyNmEn": "Filmisdead Production",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103505",
+        "companyNm": "필름인센티브B.C.",
+        "companyNmEn": "Film Incentive B.C.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103571",
+        "companyNm": "필름즈 13",
+        "companyNmEn": "Films 13",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103576",
+        "companyNm": "필름즈티프퉁노르딘웨스트폴렌",
+        "companyNmEn": "Filmstiftung Nordrhein-Westfalen",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제공"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102313",
+        "companyNm": "필름카메라테네 A/S",
+        "companyNmEn": "Filmkameratene A/S",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103501",
+        "companyNm": "필름카운실",
+        "companyNmEn": "Film Council",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "제공"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20040587",
+                "movieNm": "막달레나 시스터즈",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103820",
+        "companyNm": "필름컨트랩㈜",
+        "companyNmEn": "Filmcontract Ltd.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103159",
+        "companyNm": "필름코 픽처",
+        "companyNmEn": "Filmco Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103551",
+        "companyNm": "필름코엔터프라이즈(주)",
+        "companyNmEn": "Filmco Enterprises Inc.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103559",
+        "companyNm": "필름코픽처스리미티드",
+        "companyNmEn": "Filmko Pictures Limited",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103970",
+        "companyNm": "필름콤비네",
+        "companyNmEn": "Filmkombinat",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101778",
+        "companyNm": "필름큐엔터테인먼트",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "20070091",
+                "movieNm": "마을금고 연쇄습격사건",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102114",
+        "companyNm": "필름크래쉬",
+        "companyNmEn": "Film Crash ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104060",
+        "companyNm": "필름크래프트프로덕션",
+        "companyNmEn": "Filmkraft Productions(India) PVT Ltd.",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103912",
+        "companyNm": "필름타운엔터테인먼트",
+        "companyNmEn": "Filmtown Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20000305",
+                "movieNm": "레드 레터",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102395",
+        "companyNm": "필름파운더리파트너즈",
+        "companyNmEn": "Film Foundry Partners",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103488",
+        "companyNm": "필름파워컴퍼니리미티드",
+        "companyNmEn": "Film Power Company Limited ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103544",
+        "companyNm": "필름포",
+        "companyNmEn": "FilmFour",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20090251",
+                "movieNm": "보이 A",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20060012",
+                "movieNm": "미 앤 유 앤 에브리원",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101779",
+        "companyNm": "필름포에타",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103333",
+        "companyNm": "필름프리크스",
+        "companyNmEn": "Film Freaks",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103981",
+        "companyNm": "필름플래닛그룹",
+        "companyNmEn": "Film Planet Group",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103566",
+        "companyNm": "필름플랜",
+        "companyNmEn": "Filmplan",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103394",
+        "companyNm": "필마카데미빈",
+        "companyNmEn": "Filmakademie Wien ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103027",
+        "companyNm": "필맥스",
+        "companyNmEn": "Filmex",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103552",
+        "companyNm": "필버트스텝프로덕션",
+        "companyNmEn": "Filbert Steps Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102386",
+        "companyNm": "필복스프로듀코스",
+        "companyNmEn": "Filbox Producoes",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103475",
+        "companyNm": "핍티퍼스트필름",
+        "companyNmEn": "Fifty First Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104490",
+        "companyNm": "핏 불 프로덕션",
+        "companyNmEn": "Pit Bull Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100886",
+        "companyNm": "핑퐁",
+        "companyNmEn": "Ping Pong",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20081090",
+                "movieNm": "달려라 자전거",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102791",
+        "companyNm": "하거모스필름",
+        "companyNmEn": "Hager Moss Film ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102608",
+        "companyNm": "하글라컴퍼니",
+        "companyNmEn": "Hargla Company",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100126",
+        "companyNm": "하나필름",
+        "companyNmEn": null,
+        "ceoNm": "박태섭",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100789",
+        "companyNm": "하남한국애니메이션고등학교",
+        "companyNmEn": "Korean Animation High School",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104065",
+        "companyNm": "하드아잇픽처스",
+        "companyNmEn": "Hard Eight Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102665",
+        "companyNm": "하베스트필름",
+        "companyNmEn": "Harvest Films ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104071",
+        "companyNm": "하베스트필름웍스",
+        "companyNmEn": "Harvest Filmworks",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103586",
+        "companyNm": "하시아오추첸",
+        "companyNmEn": "Hsiao Chu-chen",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104014",
+        "companyNm": "하시엔다프로덕션",
+        "companyNmEn": "Hacienda Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104133",
+        "companyNm": "하이드파크엔터테인먼트",
+        "companyNmEn": "Hyde Park Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "제공"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20060065",
+                "movieNm": "쇼핑걸",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20040668",
+                "movieNm": "워킹 톨",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104067",
+        "companyNm": "하이레즈필름",
+        "companyNmEn": "Hi-Rez Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101901",
+        "companyNm": "하이멧필름",
+        "companyNmEn": "Heimat Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101782",
+        "companyNm": "하이프레이즈",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102382",
+        "companyNm": "하이필름",
+        "companyNmEn": "Hi Film",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102111",
+        "companyNm": "하이햇프로덕션",
+        "companyNmEn": "High Hat Productions ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101064",
+        "companyNm": "한국 영화독립제작소 물결",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19900105",
+                "movieNm": "꼴찌부터 일등까지 우리반을 찾습니다",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101028",
+        "companyNm": "한국문학㈜ ",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19910003",
+                "movieNm": "피와 불",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102233",
+        "companyNm": "한국애니메이션 예술아카데미",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100576",
+        "companyNm": "한국여성노동자협의회",
+        "companyNmEn": "Korean Women Workers Associations United",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20070301",
+                "movieNm": "화기애애",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101994",
+        "companyNm": "한국여성민우회",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100751",
+        "companyNm": "한국영화기획정보센타",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19940017",
+                "movieNm": "해적",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19930216",
+                "movieNm": "중독된 사랑",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101058",
+        "companyNm": "한국영화배급㈜",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19940237",
+                "movieNm": "정전자 2 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940166",
+                "movieNm": "정글 잼 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940071",
+                "movieNm": "배신의 욕망",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940235",
+                "movieNm": "사이드 킥",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920135",
+                "movieNm": "트라비에게 갈채를",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940111",
+                "movieNm": "봉도필승",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940072",
+                "movieNm": "이원적 관능",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920381",
+                "movieNm": "황홀한 영혼 프레드",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920170",
+                "movieNm": "용혈미정",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910340",
+                "movieNm": "살인공창 마루타",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910298",
+                "movieNm": "파호",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910324",
+                "movieNm": "맛 보슈",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910244",
+                "movieNm": "엘리게이터 2",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900049",
+                "movieNm": "너에게로 또다시",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900313",
+                "movieNm": "귀신은 사랑을 못해",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900007",
+                "movieNm": "홀로서는 그날에",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900298",
+                "movieNm": "루안살성",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900294",
+                "movieNm": "황가 특공대",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900141",
+                "movieNm": "호담맹장",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890321",
+                "movieNm": "정전자",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890079",
+                "movieNm": "누가 꽃밭에 불을 지르랴",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19890146",
+                "movieNm": "포리스 엔젤 마담",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890024",
+                "movieNm": "양귀비의 후예들",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19910225",
+                "movieNm": "기병",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900326",
+                "movieNm": "관동여협",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890301",
+                "movieNm": "흑도영웅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890186",
+                "movieNm": "카운터포스",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19880170",
+                "movieNm": "철갑무적마리아",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20090116",
+                "movieNm": "바람의 아들",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870056",
+                "movieNm": "위기의 여자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870025",
+                "movieNm": "삿뽀로의 밤사냥",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19890308",
+                "movieNm": "우연",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19870151",
+                "movieNm": "하워드 덕",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19870101",
+                "movieNm": "크로커다일 던디",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920097",
+                "movieNm": "녹색광선",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910279",
+                "movieNm": "아마조니아",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890188",
+                "movieNm": "전망좋은 방",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900211",
+                "movieNm": "유령대가",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900185",
+                "movieNm": "장국영의 H2O ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890249",
+                "movieNm": "나나",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19880106",
+                "movieNm": "패가자",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19880197",
+                "movieNm": "쥬리아",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20080972",
+                "movieNm": "석양의 무법자",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19580043",
+                "movieNm": "산넘어 바다건너",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19580061",
+                "movieNm": "별아 내 가슴에",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102005",
+        "companyNm": "한국종합예술학교",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102407",
+        "companyNm": "한국종합예술학교 영상원",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104047",
+        "companyNm": "한나바바라프로덕션",
+        "companyNmEn": "Hanna-Barbera Productions",
+        "ceoNm": "월리리엄 하나, 조셉 바바라",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101787",
+        "companyNm": "한림영화",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "19870007",
+                "movieNm": "불씨",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860040",
+                "movieNm": "작은 사랑의 노래",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860022",
+                "movieNm": "화녀도정",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860019",
+                "movieNm": "날개달린 녀석들",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850012",
+                "movieNm": "야망과 도전",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850022",
+                "movieNm": "여자의 성",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840056",
+                "movieNm": "남과 북",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840015",
+                "movieNm": "여인잔혹사 물레야 물레야",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830091",
+                "movieNm": "이상한 관계",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830054",
+                "movieNm": "0시의 호텔",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830037",
+                "movieNm": "광동관 소화자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830010",
+                "movieNm": "소림사 용팔이",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820067",
+                "movieNm": "버려진 청춘",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820054",
+                "movieNm": "욕망의 늪",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820049",
+                "movieNm": "사랑의 노예",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820007",
+                "movieNm": "돌아온 쌍용",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19810022",
+                "movieNm": "오늘밤은 참으세요",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19810012",
+                "movieNm": "미워도 다시 한번 '80 제2부",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20081071",
+                "movieNm": "괴시",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20124786",
+                "movieNm": "스티브 맥퀸의 헌터",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19800063",
+                "movieNm": "두 여인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800040",
+                "movieNm": "미워도 다시 한번 '80",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800106",
+                "movieNm": "천국의 문",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19800019",
+                "movieNm": "너는 내 운명",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790114",
+                "movieNm": "파비안느",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19790038",
+                "movieNm": "마지막 찻잔",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790024",
+                "movieNm": "내가 버린 남자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19799025",
+                "movieNm": "영원한 관계",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20108573",
+                "movieNm": "폭풍을 잡는 사나이",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19730155",
+                "movieNm": "뜨거운 영광",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800090",
+                "movieNm": "아듀 아프리카",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100618",
+        "companyNm": "한보영화(주)",
+        "companyNmEn": null,
+        "ceoNm": "권시영",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19950003",
+                "movieNm": "에로틱 걸",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19959144",
+                "movieNm": "이연걸의 탈출",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940038",
+                "movieNm": "에덴의 서쪽",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950135",
+                "movieNm": "서초패왕 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940339",
+                "movieNm": "도검소 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930249",
+                "movieNm": "위험한 여인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940349",
+                "movieNm": "내 책상 위의 천사 ",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101081",
+        "companyNm": "한성기획",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20090143",
+                "movieNm": "경찰+칠득이와 너털도사",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100005",
+        "companyNm": "한신코퍼레이션(주)",
+        "companyNmEn": "Hahn Shin Corporation",
+        "ceoNm": "김진호",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20010049",
+                "movieNm": "별주부 해로",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19980010",
+                "movieNm": "율리시즈",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19980010",
+                "movieNm": "율리시즈",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "19970010",
+                "movieNm": "예수",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100925",
+        "companyNm": "한씨네마텍",
+        "companyNmEn": "Han Cinetheque Co., Ltd",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19970039",
+                "movieNm": "그는 나에게 지타를 아느냐고 물었다",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100165",
+        "companyNm": "한아미디어(주)",
+        "companyNmEn": null,
+        "ceoNm": "임효순",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19990206",
+                "movieNm": "육체의 학교",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19990179",
+                "movieNm": "롤라 런",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19980046",
+                "movieNm": "하나비",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19960065",
+                "movieNm": "키즈 리턴",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19970296",
+                "movieNm": "어느어머니의아들 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19970102",
+                "movieNm": "스핏파이어그릴 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19960330",
+                "movieNm": "씨티 홀 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19970264",
+                "movieNm": "아름다운 청춘 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19960246",
+                "movieNm": "앙드레 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19960202",
+                "movieNm": "파리가 당신을 부를 때",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19960126",
+                "movieNm": "비포 선라이즈",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19950360",
+                "movieNm": "돌로레스 클레이븐 ",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100792",
+        "companyNm": "한양대학교(안산캠퍼스)",
+        "companyNmEn": "Hanyang University",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101970",
+        "companyNm": "한우정 ",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "20060575",
+                "movieNm": "난청지역",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100006",
+        "companyNm": "한울씨네",
+        "companyNmEn": null,
+        "ceoNm": "김기원",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19990062",
+                "movieNm": "질주",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104051",
+        "companyNm": "한웨이필름",
+        "companyNmEn": "Hanway",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20060267",
+                "movieNm": "글래스톤베리",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20060035",
+                "movieNm": "돈 컴 노킹",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101791",
+        "companyNm": "한준미디어",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101021",
+        "companyNm": "한진흥업주식회사",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19930360",
+                "movieNm": "연어알",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930358",
+                "movieNm": "댄서 페이드",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920091",
+                "movieNm": "김의 전쟁",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920321",
+                "movieNm": "헌팅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910026",
+                "movieNm": "은마는 오지 않는다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920274",
+                "movieNm": "브룩 쉴즈의 욕망의 거리",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900013",
+                "movieNm": "화랑대",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19890062",
+                "movieNm": "위험한 욕정",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900148",
+                "movieNm": "모나코의 깊은밤",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890155",
+                "movieNm": "윈터피플",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930334",
+                "movieNm": "바그다드 카페",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890022",
+                "movieNm": "블루하트",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880184",
+                "movieNm": "신기루",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19870153",
+                "movieNm": "레인저",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19870035",
+                "movieNm": "英雄 돌아오다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870032",
+                "movieNm": "웅담부인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19869052",
+                "movieNm": "하이랜더",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880233",
+                "movieNm": "중화영웅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19860085",
+                "movieNm": "아라한",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860055",
+                "movieNm": "공포의 축제",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860039",
+                "movieNm": "초야에 타는 강",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860018",
+                "movieNm": "벽과 벽사이에",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880112",
+                "movieNm": "코러스 라인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20081079",
+                "movieNm": "손오공 홍해아 대전",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850060",
+                "movieNm": "난 이렇게 산다우",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850039",
+                "movieNm": "W의 비극",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880156",
+                "movieNm": "네버 앤딩 스토리",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19850021",
+                "movieNm": "훔친 사과가 맛이 있다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850015",
+                "movieNm": "반노2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850011",
+                "movieNm": "사랑하는 사람아 3부",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20080692",
+                "movieNm": "그 해 겨울은 따뜻했네",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840033",
+                "movieNm": "꽃잎이어라 낙엽이어라",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840001",
+                "movieNm": "너무합니다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840029",
+                "movieNm": "사랑하는 사람아2/사랑하는 사람아(속)",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830081",
+                "movieNm": "장미와 도박사",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20080689",
+                "movieNm": "철인들",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960013",
+                "movieNm": "황금의 팔",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20081077",
+                "movieNm": "신서유기(손오공대전비인)",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820078",
+                "movieNm": "용형마교(합작)",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820072",
+                "movieNm": "반노",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820040",
+                "movieNm": "요권괴권",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820015",
+                "movieNm": "사후세계",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19810081",
+                "movieNm": "디바 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20090733",
+                "movieNm": "난장이가 쏘아올린 작은 공",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19810009",
+                "movieNm": "흡혈귀 야녀",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900336",
+                "movieNm": "북경의 붉은 물결",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19800059",
+                "movieNm": "이주일의 리빠동 사장",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800102",
+                "movieNm": "캔스톱 뮤직",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19800050",
+                "movieNm": "하늘이 부를때까지",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800038",
+                "movieNm": "복권",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800037",
+                "movieNm": "월녀의 한",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800023",
+                "movieNm": "무림 악인전",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830116",
+                "movieNm": "소림사",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19790072",
+                "movieNm": "순자야",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790070",
+                "movieNm": "돛대도 아니달고",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790069",
+                "movieNm": "사문의 승객",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790047",
+                "movieNm": "너는 여자 나는 남자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790042",
+                "movieNm": "도깨비 감투",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790043",
+                "movieNm": "땅콩껍질속의 연가",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790027",
+                "movieNm": "목마 위의 여자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790021",
+                "movieNm": "전우가 남긴 한마디",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790115",
+                "movieNm": "사형도수",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19790094",
+                "movieNm": "사랑이 머무는 곳에",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19790023",
+                "movieNm": "호국팔만대장경",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780039",
+                "movieNm": "병아리들의 잔칫날",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19789104",
+                "movieNm": "철새들의 축제",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20125547",
+                "movieNm": "판문점 미류나무 작전",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780029",
+                "movieNm": "고교명랑교실",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790078",
+                "movieNm": "깊은밤 깊은 곳에",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19780044",
+                "movieNm": "악어의 공포",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780025",
+                "movieNm": "미스 양의 모험",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780072",
+                "movieNm": "007 나를 사랑한 스파이",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19780017",
+                "movieNm": "코메리칸의 낮과 밤",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780007",
+                "movieNm": "엄마없는 하늘아래2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780002",
+                "movieNm": "난중일기",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19770048",
+                "movieNm": "표적",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19770036",
+                "movieNm": "첫눈이 내릴때",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20090758",
+                "movieNm": "엄마 없는 하늘 아래",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20126426",
+                "movieNm": "한네의 승천",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880211",
+                "movieNm": "엔조이 부인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19780093",
+                "movieNm": "캐리",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19770097",
+                "movieNm": "록키",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19770093",
+                "movieNm": "정오에서 3시까지",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19770020",
+                "movieNm": "별명 붙은 운전사",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19760005",
+                "movieNm": "우리에게 내일은 있다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19768052",
+                "movieNm": "푸른 교실",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19760030",
+                "movieNm": "젊은 도시",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19760029",
+                "movieNm": "짝",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19648083",
+                "movieNm": "최후의 총잡이",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19760091",
+                "movieNm": "여자들만 사는 거리",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20127668",
+                "movieNm": "유정",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19768233",
+                "movieNm": "여자를 찾습니다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19760006",
+                "movieNm": "로보트 태권V 2탄 : 우주 작전",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19768221",
+                "movieNm": "판문점 도끼살인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790076",
+                "movieNm": "슈퍼 다이아몬드",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19770104",
+                "movieNm": "뻐꾸기둥지위로 날아간 새",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19770075",
+                "movieNm": "그레이트 헌팅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19750100",
+                "movieNm": "꽃과 뱀",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19750007",
+                "movieNm": "특별수사본부 외팔이 김종원",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19750083",
+                "movieNm": "사생결단",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19750078",
+                "movieNm": "빛은 어디에",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19750017",
+                "movieNm": "반수반인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19750037",
+                "movieNm": "형사 배삼룡",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740081",
+                "movieNm": "빵간에 산다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740131",
+                "movieNm": "악명",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740031",
+                "movieNm": "국회 푸락치",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740124",
+                "movieNm": "성숙",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740030",
+                "movieNm": "만나야 할 사람",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740186",
+                "movieNm": "토요일 밤에",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19740004",
+                "movieNm": "아빠하고 나하고",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19748217",
+                "movieNm": "특별수사본부 김수임의 일생",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19748172",
+                "movieNm": "아들 3형제",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19780096",
+                "movieNm": "스팅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108378",
+                "movieNm": "나이트 워치 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19730010",
+                "movieNm": "빠삐용",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108772",
+                "movieNm": "공포의 드라큐라",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19730009",
+                "movieNm": "특별수사본부 배태옥 사건",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20108638",
+                "movieNm": "누명",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19730049",
+                "movieNm": "동풍",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19738206",
+                "movieNm": "특별수사본부 여대생 이난희사건",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20108088",
+                "movieNm": "에바의 연정",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19730187",
+                "movieNm": "기상천외",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19730100",
+                "movieNm": "산녀",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19730097",
+                "movieNm": "동반자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19730094",
+                "movieNm": "특별수사본부와 기생 김소산",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19730017",
+                "movieNm": "똘똘이 해상 특공대",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20108782",
+                "movieNm": "아루자",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19720061",
+                "movieNm": "정무문",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19720060",
+                "movieNm": "정도",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20127126",
+                "movieNm": "모정",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19718269",
+                "movieNm": "백상어",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108507",
+                "movieNm": "원시인의 백만년",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890105",
+                "movieNm": "산드라 부인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19790105",
+                "movieNm": "내 이름은 튜니티",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19700007",
+                "movieNm": "워터루",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20081069",
+                "movieNm": "미워도 다시 한번",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19668074",
+                "movieNm": "해저세계일주",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20101381",
+                "movieNm": "자이언트",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108653",
+                "movieNm": "40인의 여도적",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108641",
+                "movieNm": "홍콩서 온 불사신",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19638011",
+                "movieNm": "핑크 팬더",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103231",
+        "companyNm": "한프로덕션",
+        "companyNmEn": "Hahn Productions",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104101",
+        "companyNm": "할리우드파트너스뮤니히",
+        "companyNmEn": "Hollywood Partners Munich",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104107",
+        "companyNm": "할리우드픽처스",
+        "companyNmEn": "Hollywood Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19990265",
+                "movieNm": "식스 센스",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19990305",
+                "movieNm": "사이먼 버치 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19990169",
+                "movieNm": "딥라이징",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960252",
+                "movieNm": "스파이 하드 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960244",
+                "movieNm": "화이트 스콜 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960224",
+                "movieNm": "더 록 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960149",
+                "movieNm": "바인드 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960125",
+                "movieNm": "비포 앤 애프터 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19960121",
+                "movieNm": "홀랜드 오퍼스 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950298",
+                "movieNm": "위험한 아이들 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950247",
+                "movieNm": "저지 드레드 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950340",
+                "movieNm": "룸메이트 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950281",
+                "movieNm": "크림슨 타이드 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950185",
+                "movieNm": "당신이 잠든 사이에 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950154",
+                "movieNm": "에이리언 마스터 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950110",
+                "movieNm": "퀴즈 쇼 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940379",
+                "movieNm": "터미날 스피드 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940334",
+                "movieNm": "에어 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940224",
+                "movieNm": "에덴의 마지막 날 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940215",
+                "movieNm": "툼스톤 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940086",
+                "movieNm": "조이 럭 클럽 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19930229",
+                "movieNm": "제이제이",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920319",
+                "movieNm": "원시 틴에이저 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920161",
+                "movieNm": "요람을 흔드는 손",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920205",
+                "movieNm": "아라크네의 비밀",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103982",
+        "companyNm": "할필름",
+        "companyNmEn": "HAL Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100031",
+        "companyNm": "합동영화사(주)",
+        "companyNmEn": null,
+        "ceoNm": "오한균",
+        "parts": [
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20129653",
+                "movieNm": "캔사스의 절규",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102999",
+        "companyNm": "해성",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "19910075",
+                "movieNm": "나를 보라 아메리카",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19908429",
+                "movieNm": "레나또와 빠오로의 폭소탄",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101005",
+        "companyNm": "해성흥업",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19930345",
+                "movieNm": "신용쟁호투",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930318",
+                "movieNm": "킬리만자로의 복수",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920018",
+                "movieNm": "원색의 청춘",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920330",
+                "movieNm": "노화광분",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920320",
+                "movieNm": "블랙캣",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920120",
+                "movieNm": "이방의 연인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930336",
+                "movieNm": "위험한 유혹",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920187",
+                "movieNm": "마드리드의 정사",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930317",
+                "movieNm": "빙하의 추적",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920108",
+                "movieNm": "미팅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910329",
+                "movieNm": "파티",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910297",
+                "movieNm": "샤샤를 위하여",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910235",
+                "movieNm": "블랙 에이리언",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900055",
+                "movieNm": "신의 이방인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900181",
+                "movieNm": "청부살인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900173",
+                "movieNm": "블레임 람바다",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890331",
+                "movieNm": "의본대형",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890051",
+                "movieNm": "불여우",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19890289",
+                "movieNm": "트로마스워",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890243",
+                "movieNm": "라스트 플래툰",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890216",
+                "movieNm": "영웅대도",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890116",
+                "movieNm": "특경도룡",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19880212",
+                "movieNm": "여자감옥",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19880173",
+                "movieNm": "대호출격",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19890227",
+                "movieNm": "위치 크랩",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19870077",
+                "movieNm": "학창보고서",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870049",
+                "movieNm": "외계우뢰용",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870005",
+                "movieNm": "사노",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880133",
+                "movieNm": "기연출사",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19870091",
+                "movieNm": "쿼터매인 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910271",
+                "movieNm": "괴마천사",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920138",
+                "movieNm": "노래에 사랑싣고",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104058",
+        "companyNm": "해피메디슨프로덕션",
+        "companyNmEn": "Happy Madison Productions",
+        "ceoNm": "아담 샌들러",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100849",
+        "companyNm": "해피픽쳐스",
+        "companyNmEn": "Happy Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20072684",
+                "movieNm": "도화지",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860111",
+                "movieNm": "라이어스 문 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104042",
+        "companyNm": "핸드프린터엔터테인먼트",
+        "companyNmEn": "Handprint Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103939",
+        "companyNm": "햄스터프로덕션",
+        "companyNmEn": "Hamster Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103565",
+        "companyNm": "허리케인필름",
+        "companyNmEn": "Hurricane Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103478",
+        "companyNm": "허버트발스펀드",
+        "companyNmEn": "Hubert Bals Fund ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "제공"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20021416",
+                "movieNm": "그림자 살인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19990259",
+                "movieNm": "북경녀석들 ",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104131",
+        "companyNm": "험벌져니필름",
+        "companyNmEn": "Humble Journey Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104079",
+        "companyNm": "헤드스페이스",
+        "companyNmEn": "Headspace",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102061",
+        "companyNm": "헤드쿼터즈",
+        "companyNmEn": "Headquarters ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102878",
+        "companyNm": "헤미스피이어엔터테인먼트",
+        "companyNmEn": "Hemisphere Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102100",
+        "companyNm": "헤브머시픽처스",
+        "companyNmEn": "Have Mercy Pictures Inc.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104091",
+        "companyNm": "헤이데이필름",
+        "companyNmEn": "Heyday Films",
+        "ceoNm": "데이빗 헤이만",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20101224",
+                "movieNm": "해리 포터와 죽음의 성물1",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20070063",
+                "movieNm": "해리 포터와 불사조 기사단",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102953",
+        "companyNm": "헤이트킬스맨(HKM) ",
+        "companyNmEn": "Hate Kills Man (HKM) ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103905",
+        "companyNm": "헤이필름즈튜디오",
+        "companyNmEn": "Hayfilm Studio",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104090",
+        "companyNm": "헬러하이워터프로덕션",
+        "companyNmEn": "Heller Highwater Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102641",
+        "companyNm": "헬레닉라디오&텔레비전",
+        "companyNmEn": "Hellenic Radio & Television (ERT)",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20040726",
+                "movieNm": "비키퍼",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104087",
+        "companyNm": "헬콘미디어AG",
+        "companyNmEn": "Helkon Media AG",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101068",
+        "companyNm": "현대동화",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19900104",
+                "movieNm": "스타짱가 제트(Z) 마징가 브이 슈퍼베타맨",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880041",
+                "movieNm": "로버트스타 짱가",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104285",
+        "companyNm": "현대방송",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "19990118",
+                "movieNm": "마이클",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101076",
+        "companyNm": "혜성실업",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20090128",
+                "movieNm": "빨간 색깔의 여자",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102372",
+        "companyNm": "호다필름",
+        "companyNmEn": "Hoda Film",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102002",
+        "companyNm": "호리존트2000",
+        "companyNmEn": "Horizont 2000",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102236",
+        "companyNm": "호리프로덕션",
+        "companyNmEn": "Hori Production",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104113",
+        "companyNm": "호오스파워필름",
+        "companyNmEn": "Horsepower Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103497",
+        "companyNm": "호크'스 네스트프로덕션",
+        "companyNmEn": "Hawk's Nest Productions",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104070",
+        "companyNm": "호하이픽처스",
+        "companyNmEn": "Ho-Hi Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103462",
+        "companyNm": "홀디거필름",
+        "companyNmEn": "Holedigger Films ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104027",
+        "companyNm": "홀마크엔터테인먼트",
+        "companyNmEn": "Hallmark Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101813",
+        "companyNm": "홈그린필름",
+        "companyNmEn": "Homegreen Films Co.",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20100136",
+                "movieNm": "도와줘,에로스",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103500",
+        "companyNm": "홈런픽처스",
+        "companyNmEn": "Home Run Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102818",
+        "companyNm": "홍두현필름",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100786",
+        "companyNm": "홍익대학교(조치원캠퍼스)",
+        "companyNmEn": "Hongik University",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20100425",
+                "movieNm": "좋은 밤 되세요",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20100417",
+                "movieNm": "포크 커틀릿",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20100423",
+                "movieNm": "흑구",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102229",
+        "companyNm": "홍콩:IIB ",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100570",
+        "companyNm": "화도 엔터테인먼트",
+        "companyNmEn": "HWADO Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100758",
+        "companyNm": "화성영화",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19950107",
+                "movieNm": "육체의 행로",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19950187",
+                "movieNm": "야수의 표적 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19950111",
+                "movieNm": "스킨스 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940251",
+                "movieNm": "스트레인저",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940296",
+                "movieNm": "마이애미 열정 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930042",
+                "movieNm": "유혹의 샘",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19940131",
+                "movieNm": "레이브 댄싱 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930391",
+                "movieNm": "무림객잔",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930382",
+                "movieNm": "광란의 정사",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930362",
+                "movieNm": "마리부인의 정사",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930282",
+                "movieNm": "에이틴 인어 위크",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930117",
+                "movieNm": "하워즈 엔드",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930273",
+                "movieNm": "집시의 시간",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19950171",
+                "movieNm": "위험한 본능 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940258",
+                "movieNm": "쌍도여걸 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19930385",
+                "movieNm": "코리 헤임의 발렌타인 보이",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19920009",
+                "movieNm": "B타임의 정사 2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920349",
+                "movieNm": "데저트 호크",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20113919",
+                "movieNm": "보이즈",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940206",
+                "movieNm": "천녀영호",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19940319",
+                "movieNm": "벨을 두 번 누른 여자 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19950170",
+                "movieNm": "황홀한 연인 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20119147",
+                "movieNm": "하리케인 작전",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20119132",
+                "movieNm": "생사의 고백",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20100513",
+                "movieNm": "마부",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19618014",
+                "movieNm": "장희빈",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20112768",
+                "movieNm": "애심",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108136",
+                "movieNm": "그레이트 씨 맨",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19600092",
+                "movieNm": "부부",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104304",
+        "companyNm": "화성필림",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "20119247",
+                "movieNm": "위험한 여로",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101793",
+        "companyNm": "화이브라더스 픽처스",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20102702",
+        "companyNm": "화이트크라우드",
+        "companyNmEn": "Whitecloud",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101797",
+        "companyNm": "화인커뮤니케이션",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "20040803",
+                "movieNm": "시암 선셋",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19980049",
+                "movieNm": "루나 파파",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100145",
+        "companyNm": "화인프로덕션",
+        "companyNmEn": "Fine Communications",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20020020",
+                "movieNm": "밀레니엄 맘보",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20020020",
+                "movieNm": "밀레니엄 맘보",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20010072",
+                "movieNm": "낙타(들)",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20010072",
+                "movieNm": "낙타(들)",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "19990285",
+                "movieNm": "큐브",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100988",
+        "companyNm": "화진영화",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19930011",
+                "movieNm": "아담이 눈뜰 때",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20090796",
+                "movieNm": "퐁네프의 연인들",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19910004",
+                "movieNm": "낙타는 따로 울지 않는다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920296",
+                "movieNm": "금지된 장난",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100943",
+        "companyNm": "화천",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19748225",
+                "movieNm": "신들린여인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20119144",
+                "movieNm": "바캉스",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20119190",
+                "movieNm": "더블데이트 대소동",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20119148",
+                "movieNm": "열화문",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108121",
+                "movieNm": "슈베르트의 아베마리아",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19718155",
+                "movieNm": "어둠속에 벨이 울릴 때",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19770091",
+                "movieNm": "나타샤",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19708131",
+                "movieNm": "스크루우지",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108729",
+                "movieNm": "그리즈리 킹",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108705",
+                "movieNm": "17인의사자들",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19708024",
+                "movieNm": "작은거인",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108506",
+                "movieNm": "세계최대의 서커스",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20110024",
+                "movieNm": "무기여 잘 있거라",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19558011",
+                "movieNm": "에덴의 동쪽",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108668",
+                "movieNm": "썸머타임리코",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19708129",
+                "movieNm": "용문객",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108875",
+                "movieNm": "독행도",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20108622",
+                "movieNm": "흑호문",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100683",
+        "companyNm": "화풍흥업",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19940065",
+                "movieNm": "거꾸로 가는 여자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920071",
+                "movieNm": "백백교",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19910115",
+                "movieNm": "붉은 신호에 걷는 여자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19910045",
+                "movieNm": "실크커텐 저편",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900012",
+                "movieNm": "천녀원앙",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19890044",
+                "movieNm": "외계인과 콩콩강시",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870026",
+                "movieNm": "성춘향",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19870136",
+                "movieNm": "고릴라 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19860088",
+                "movieNm": "투명인간",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860065",
+                "movieNm": "불춤",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860064",
+                "movieNm": "중광의 허튼소리",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860064",
+                "movieNm": "중광의 허튼소리",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "19860043",
+                "movieNm": "수렁에서 건진 내 딸 2",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19860010",
+                "movieNm": "달빛타기",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850071",
+                "movieNm": "피조개 뭍에 오르다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850017",
+                "movieNm": "내사랑 짱구",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19850007",
+                "movieNm": "그때 죽어도 좋았다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840066",
+                "movieNm": "지금 이대로가 좋아",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840059",
+                "movieNm": "홍병매",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19840035",
+                "movieNm": "불새의 늪",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830096",
+                "movieNm": "비호문",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830079",
+                "movieNm": "웬일이니",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830065",
+                "movieNm": "인생극장",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830059",
+                "movieNm": "뇌권",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830043",
+                "movieNm": "친구 애인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19830026",
+                "movieNm": "흑장미",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820064",
+                "movieNm": "소림신방",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820062",
+                "movieNm": "여자와 비",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19820029",
+                "movieNm": "인터폴",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20050246",
+                "movieNm": "나는 할렐루야 아줌마였다",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19810039",
+                "movieNm": "가슴깊게 화끈하게",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19810036",
+                "movieNm": "그대앞에다시서리라",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800135",
+                "movieNm": "색깔있는 여자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19809006",
+                "movieNm": "괴초 도사",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19808191",
+                "movieNm": "노명검",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19809032",
+                "movieNm": "요",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800053",
+                "movieNm": "소림용문방",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800001",
+                "movieNm": "어느 여대생의 고백",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19790060",
+                "movieNm": "불행한 여자의 행복",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19799026",
+                "movieNm": "학을 그리는 여인",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19800088",
+                "movieNm": "파울플레이",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19790091",
+                "movieNm": "이소룡의 생과 사",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20101052",
+        "companyNm": "활동사진공동체'춘사'",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19910028",
+                "movieNm": "밀크초콜릿 1950-1990",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20100166",
+        "companyNm": "효능영화제작사(주)",
+        "companyNmEn": null,
+        "ceoNm": "홍종국",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "수입사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20010246",
+                "movieNm": "소친친",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20010109",
+                "movieNm": "십이야",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20000264",
+                "movieNm": "동경공략",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20000191",
+                "movieNm": "젠엑스 캅",
+                "companyPartNm": "배급사"
+            },
+            {
+                "movieCd": "20000191",
+                "movieNm": "젠엑스 캅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20000162",
+                "movieNm": "심동",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20000078",
+                "movieNm": "성원",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19990266",
+                "movieNm": "더 헌팅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19990253",
+                "movieNm": "중화영웅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19990286",
+                "movieNm": "환영특공 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19990117",
+                "movieNm": "유리의 성",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19980250",
+                "movieNm": "친니친니",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19980245",
+                "movieNm": "옥보단 3 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19979083",
+                "movieNm": "정이건의 영웅",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19980147",
+                "movieNm": "메이드 인 홍콩 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19970278",
+                "movieNm": "신투첩영 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19970213",
+                "movieNm": "비룡 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "20000116",
+                "movieNm": "색정남녀",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19970135",
+                "movieNm": "천장지구3 : 천장지구 완결",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19960178",
+                "movieNm": "양조위의 유망의생 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19950328",
+                "movieNm": "동사서독 ",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19990217",
+                "movieNm": "아이니 아이워 ",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102997",
+        "companyNm": "효동",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101031",
+        "companyNm": "효동흥업",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19910064",
+                "movieNm": "사랑스런 이웃집 여자",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19910044",
+                "movieNm": "꽃그늘 속에 부는 바람",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19920173",
+                "movieNm": "신 개인교수",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19880075",
+                "movieNm": "대남",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19880030",
+                "movieNm": "여자가 숨는 숲",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900282",
+                "movieNm": "여대생의 첫욕망",
+                "companyPartNm": "수입사"
+            },
+            {
+                "movieCd": "19900319",
+                "movieNm": "굿바이 엠마뉴엘",
+                "companyPartNm": "수입사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103838",
+        "companyNm": "후아이브라더스픽처스",
+        "companyNmEn": "Huayi Brothers Pictures",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20101038",
+                "movieNm": "대지진",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20100474",
+                "movieNm": "쉬즈 더 원",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20090883",
+                "movieNm": "사랑에서 영혼으로",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20040776",
+                "movieNm": "쿵푸 허슬",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103440",
+        "companyNm": "후웍스",
+        "companyNmEn": "Fu Works",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20103746",
+        "companyNm": "후지",
+        "companyNmEn": "Fuji",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101798",
+        "companyNm": "후지 TV",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": [
+            {
+                "movieCd": "20131681",
+                "movieNm": "드래곤볼Z : 신들의 전쟁",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20050119",
+                "movieNm": "언두",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20102295",
+        "companyNm": "후지 텔레비전 네트워크",
+        "companyNmEn": "Company:Fuji Television Network",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20000302",
+                "movieNm": "화이트 아웃",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20000310",
+                "movieNm": "웰컴 미스터 맥도날드",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103080",
+        "companyNm": "후지텔레비젼네트웍",
+        "companyNmEn": "Fuji Television Network",
+        "ceoNm": "히사시 히다",
+        "parts": [
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20040727",
+                "movieNm": "기브 잇 올",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20040458",
+                "movieNm": "춤추는 대수사선",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20050120",
+                "movieNm": "피크닉",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20000067",
+                "movieNm": "러브레터",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103740",
+        "companyNm": "후지티브피어쳐",
+        "companyNmEn": "Fugitive Features",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19950288",
+                "movieNm": "다크 눈 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19950272",
+                "movieNm": "데스 머신 ",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "19900316",
+                "movieNm": "크레이스형제",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20103519",
+        "companyNm": "후통커뮤니케이션",
+        "companyNmEn": "Hu Tong Communications",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19970063",
+                "movieNm": "소무",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104130",
+        "companyNm": "휴고필름",
+        "companyNmEn": "Hugo Films",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100198",
+        "companyNm": "휴먼픽쳐스(주)",
+        "companyNmEn": "Human Pictures",
+        "ceoNm": "신용주",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20050197",
+                "movieNm": "종려나무 숲",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104125",
+        "companyNm": "휴즈엔터테인먼트",
+        "companyNmEn": "Hughes Entertainment",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19910355",
+                "movieNm": "나홀로 집에",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104044",
+        "companyNm": "흄멜링크스튜만씨어터브로우",
+        "companyNmEn": "Hummelinck Stuurman Theater bureau ",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20100775",
+        "companyNm": "희필름",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "기타"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "19940006",
+                "movieNm": "애수의 하모니카",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20104110",
+        "companyNm": "힐빌라(주)",
+        "companyNmEn": "Hill Villa Co., Ltd.",
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104092",
+        "companyNm": "힐탑엔터테인먼트",
+        "companyNmEn": "Hilltop Entertainment [ca]",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            },
+            {
+                "companyPartNm": "배급사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20101800",
+        "companyNm": "힘픽쳐스",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [],
+        "filmos": []
+    },
+    {
+        "companyCd": "20104134",
+        "companyNm": "힙노틱",
+        "companyNmEn": "Hypnotic",
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20138035",
+        "companyNm": "테스트 영화사",
+        "companyNmEn": null,
+        "ceoNm": "테스트",
+        "parts": [
+            {
+                "companyPartNm": "제작사"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20120862",
+                "movieNm": "테스트영화",
+                "companyPartNm": "제작사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20121860",
+        "companyNm": "(주)데이콤멀티미디어인터넷",
+        "companyNmEn": null,
+        "ceoNm": "윤준원",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121861",
+        "companyNm": "(주)디엠넷",
+        "companyNmEn": null,
+        "ceoNm": "김대희",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121863",
+        "companyNm": "(주)무비투게더",
+        "companyNmEn": null,
+        "ceoNm": "오승환",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121864",
+        "companyNm": "(주)싸이버텍모바일",
+        "companyNmEn": null,
+        "ceoNm": "김중환",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121859",
+        "companyNm": "(주)엔비즈코리아",
+        "companyNmEn": null,
+        "ceoNm": "양승훈",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121865",
+        "companyNm": "(주)엔씨오티",
+        "companyNmEn": null,
+        "ceoNm": "김정명",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121868",
+        "companyNm": "(주)위소더무비",
+        "companyNmEn": null,
+        "ceoNm": "정민성",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121870",
+        "companyNm": "cinero",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121871",
+        "companyNm": "j.s 시네마",
+        "companyNmEn": null,
+        "ceoNm": "이주생",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121875",
+        "companyNm": "건미디어",
+        "companyNmEn": null,
+        "ceoNm": "염자연",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121876",
+        "companyNm": "곰티비",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121877",
+        "companyNm": "네오위즈인터넷",
+        "companyNmEn": null,
+        "ceoNm": "이기원",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121878",
+        "companyNm": "넷마블",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121880",
+        "companyNm": "라온컴퍼니",
+        "companyNmEn": null,
+        "ceoNm": "박숙희",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": [
+            {
+                "movieCd": "20182753",
+                "movieNm": "이웃집 아내",
+                "companyPartNm": "제작사"
+            },
+            {
+                "movieCd": "20182753",
+                "movieNm": "이웃집 아내",
+                "companyPartNm": "배급사"
+            }
+        ]
+    },
+    {
+        "companyCd": "20121881",
+        "companyNm": "마크아미",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121886",
+        "companyNm": "맥스무비",
+        "companyNmEn": null,
+        "ceoNm": "주태산",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121887",
+        "companyNm": "무비쇼",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121888",
+        "companyNm": "무비스트",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121889",
+        "companyNm": "미니게이트",
+        "companyNmEn": null,
+        "ceoNm": "정훈",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121892",
+        "companyNm": "벅스무비",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121893",
+        "companyNm": "벅스뮤직",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121894",
+        "companyNm": "비즈플렉스",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121895",
+        "companyNm": "서비스판권1",
+        "companyNmEn": null,
+        "ceoNm": "김효식",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121896",
+        "companyNm": "서비스판권2",
+        "companyNmEn": null,
+        "ceoNm": "박경서",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121897",
+        "companyNm": "서비스판권3",
+        "companyNmEn": null,
+        "ceoNm": "박경서",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121898",
+        "companyNm": "서울셀렉션주식회사",
+        "companyNmEn": null,
+        "ceoNm": "김형근",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121842",
+        "companyNm": "선필름",
+        "companyNmEn": null,
+        "ceoNm": "이정희",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121843",
+        "companyNm": "슈퍼관리자",
+        "companyNmEn": null,
+        "ceoNm": "관리자",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121844",
+        "companyNm": "신세계몰",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121845",
+        "companyNm": "씨네마타임즈",
+        "companyNmEn": null,
+        "ceoNm": "이진영",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121846",
+        "companyNm": "씨네웰컴",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121847",
+        "companyNm": "씨네폭스",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121848",
+        "companyNm": "씨네폭스",
+        "companyNmEn": null,
+        "ceoNm": "김광호",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121849",
+        "companyNm": "씨네폭스",
+        "companyNmEn": null,
+        "ceoNm": "김광호",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121850",
+        "companyNm": "아이템매니아",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121852",
+        "companyNm": "에이브이에이엔터테인먼트 ",
+        "companyNmEn": null,
+        "ceoNm": "김태형",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121853",
+        "companyNm": "엔조이365",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121854",
+        "companyNm": "엠바로",
+        "companyNmEn": null,
+        "ceoNm": "정태선",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121855",
+        "companyNm": "영상사업단 JIFA CINEMA",
+        "companyNmEn": null,
+        "ceoNm": "유순희",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121837",
+        "companyNm": "오케이캐쉬백",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121838",
+        "companyNm": "온타운",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121839",
+        "companyNm": "원천판권1",
+        "companyNmEn": null,
+        "ceoNm": "박경서",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121840",
+        "companyNm": "유니텔",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121841",
+        "companyNm": "인포렉스",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121831",
+        "companyNm": "조이코리아",
+        "companyNmEn": null,
+        "ceoNm": "김명수",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121832",
+        "companyNm": "주식회사 스프링웍스",
+        "companyNmEn": null,
+        "ceoNm": "박재균",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121833",
+        "companyNm": "중앙엔터테인먼트앤드스포츠",
+        "companyNmEn": null,
+        "ceoNm": "정경문",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121834",
+        "companyNm": "짱공유",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121835",
+        "companyNm": "짱파일",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121825",
+        "companyNm": "코원시스템",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121828",
+        "companyNm": "판도라",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121829",
+        "companyNm": "팝콘 주식회사",
+        "companyNmEn": null,
+        "ceoNm": "강정규",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121817",
+        "companyNm": "프라미스엔터테인먼트",
+        "companyNmEn": null,
+        "ceoNm": "곽재용",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121818",
+        "companyNm": "프로그램스",
+        "companyNmEn": null,
+        "ceoNm": "박태훈",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121819",
+        "companyNm": "프루나",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121820",
+        "companyNm": "프리챌",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121821",
+        "companyNm": "하동철기념사업회",
+        "companyNmEn": null,
+        "ceoNm": "하준수",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121824",
+        "companyNm": "한아름닷컴",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121813",
+        "companyNm": "해피프랜즈",
+        "companyNmEn": null,
+        "ceoNm": "양영욱",
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    },
+    {
+        "companyCd": "20121814",
+        "companyNm": "헬로키노",
+        "companyNmEn": null,
+        "ceoNm": null,
+        "parts": [
+            {
+                "companyPartNm": "부가시장"
+            }
+        ],
+        "filmos": []
+    }
+]
