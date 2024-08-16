@@ -36,8 +36,8 @@ def save_companyInfo(sleep_time=1):
 
     cnt = len(companyCd)
 
-    for c in range(cnt//1000 + 1):
-        file_path = f'data/movies/company/companyInfo/companyInfo_{c}.json'
+    for c in range(cnt//2000 + 1):
+        file_path = f'data/movies/company/companyInfo/companyInfo_{c+1}.json'
 
         if os.path.exists(file_path):
             print(f"데이터가 이미 존재합니다: {file_path}")
@@ -46,11 +46,11 @@ def save_companyInfo(sleep_time=1):
         url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/company/searchCompanyInfo.json?key={API_KEY}&companyCd="
         all_data = []
 
-        for i in tqdm(range(c*1000, (c+1)*1000)):
+        for i in tqdm(range(c*2000, (c+1)*2000)):
             if i == cnt:
                 break
             
-            time.sleep(sleep_time)
+            #time.sleep(sleep_time)
             r = req(url_base + companyCd[i])
             d = r['companyInfoResult']['companyInfo']
             all_data.append(d)
