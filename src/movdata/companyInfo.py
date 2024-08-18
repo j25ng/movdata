@@ -18,7 +18,7 @@ def req(url):
     return r
 
 def read_companies():
-    file_path = f'data/movies/company/companyList.json'
+    file_path = f'data/company/companyList.json'
 
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -37,7 +37,7 @@ def save_companyInfo(sleep_time=1):
     cnt = len(companyCd)
 
     for c in range(cnt//2000 + 1):
-        file_path = f'data/movies/company/companyInfo/companyInfo_{c+1}.json'
+        file_path = f'data/company/companyInfo/companyInfo_{c+1}.json'
 
         if os.path.exists(file_path):
             print(f"데이터가 이미 존재합니다: {file_path}")
