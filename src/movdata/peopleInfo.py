@@ -46,15 +46,16 @@ def save_peopleInfo(sleep_time=1):
         url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/people/searchPeopleInfo.json?key={API_KEY}&peopleCd="
         all_data = []
 
-        for i in tqdm(range(c*2000, (c+1)*2000)):
-            if i == cnt:
-                break
+        if (c*2000) < cnt:
+            for i in tqdm(range(c*2000, (c+1)*2000)):
+                if i == cnt:
+                    break
             
-            time.sleep(sleep_time)
-            r = req(url_base + peopleCd[i])
-            d = r['peopleInfoResult']['peopleInfo']
-            all_data.append(d)
+                time.sleep(sleep_time)
+                r = req(url_base + peopleCd[i])
+                d = r['peopleInfoResult']['peopleInfo']
+                all_data.append(d)
 
-        save_json(all_data, file_path)
+            save_json(all_data, file_path)
 
     return True
