@@ -28,8 +28,10 @@ def save_people(per_page=10, sleep_time=1):
     # totCnt 가져와서 total_pages 계산
     url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/people/searchPeopleList.json?key={API_KEY}"
     r = req(url_base + "&curPage=1")
-    tot_cnt = r['peopleListResult']['totCnt']
-    total_pages = (tot_cnt // per_page) + 1
+    #tot_cnt = r['peopleListResult']['totCnt']
+    #total_pages = (tot_cnt // per_page) + 1
+    # 100페이지까지만 저장해보기
+    total_pages = 1000
 
     all_data = []
     # total_pages 만큼 Loop 돌면서 API 호출
