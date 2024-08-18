@@ -18,7 +18,7 @@ def req(url):
     return r
 
 def save_people(per_page=10, sleep_time=1):
-    file_path = f'data/movies/people/peopleList.json'
+    file_path = f'data/people/peopleList.json'
     
     # 위 경로가 있으면 API 호출을 멈추고 프로그램 종료
     if os.path.exists(file_path):
