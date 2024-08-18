@@ -41,6 +41,3 @@ def save_people(per_page=10, sleep_time=1):
 
     save_json(all_data, file_path)
     return True
-
-
-save_people()
