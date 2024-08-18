@@ -1,4 +1,4 @@
-# movdata
+# 영화진흥위원회 영화/영화사/영화인 API 조회 및 데이터 추출
 ## save data
 ```bash
 $ cd data
