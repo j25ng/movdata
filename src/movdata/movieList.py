@@ -42,13 +42,13 @@ def save_movies(year=2015, per_page=10, sleep_time=1):
     save_json(all_data, file_path)
     return True
 
-def save_movie_json(year, total_page, file_path):
+def save_movie_json(year, total_pages, file_path):
     url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieList.json?key={API_KEY}&openStartDt={year}&openEndDt={year}"
-   for page in range(1, total_pages+1)):
-       time.sleep(sleep_time)
-       r = req(url_base + f"&curPage={page}")
-       d = r['movieListResult']['movieList']
-       all_data.extend(d)
+    for page in range(1, total_pages+1):
+        time.sleep(sleep_time)
+        r = req(url_base + f"&curPage={page}")
+        d = r['movieListResult']['movieList']
+        all_data.extend(d)
     
     save_json(all_dat, file_path)
     return True
