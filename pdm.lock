@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:b164c65001a523985a608f341357a118b64b2a010171d07ae1edf0a3cd28b016"
+content_hash = "sha256:bc68a53baf46f9206dec5203b053656e2d00c1047db60dd0232a9b784f7a6128"
 
 [[metadata.targets]]
 requires_python = ">=3.9"
@@ -136,21 +136,6 @@ groups = ["default"]
 files = [
     {file = "iniconfig-2.0.0-py3-none-any.whl", hash = "sha256:b6a85871a79d2e3b22d2d1b94ac2824226a63c6b741c88f7ae975f18b6778374"},
     {file = "iniconfig-2.0.0.tar.gz", hash = "sha256:2d91e135bf72d31a410b17c16da610a82cb55f6b0477d1a902134b24a455b8b3"},
-]
-
-[[package]]
-name = "movdata"
-version = "0.2.0"
-requires_python = ">=3.9"
-path = "./."
-summary = "Default template for PDM package"
-groups = ["default"]
-dependencies = [
-    "movdata @ file:///${PROJECT_ROOT}/.",
-    "pyarrow>=17.0.0",
-    "pytest>=8.3.2",
-    "requests>=2.32.3",
-    "tqdm>=4.66.5",
 ]
 
 [[package]]
