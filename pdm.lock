@@ -146,6 +146,7 @@ path = "./."
 summary = "Default template for PDM package"
 groups = ["default"]
 dependencies = [
+    "movdata @ file:///${PROJECT_ROOT}/.",
     "pyarrow>=17.0.0",
     "pytest>=8.3.2",
     "requests>=2.32.3",
