@@ -43,6 +43,11 @@ def save_movies(year=2015, per_page=10, sleep_time=1):
     return True
 
 def save_movie_json(year, total_pages, file_path):
+    # 위 경로가 있으면 API 호출을 멈추고 프로그램 종료
+    if os.path.exists(file_path):
+        print(f"데이터가 이미 존재합니다: {file_path}")
+        return True
+
     all_data = []
     url_base = f"https://kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieList.json?key={API_KEY}&openStartDt={year}&openEndDt={year}"
     for page in range(1, total_pages+1):
