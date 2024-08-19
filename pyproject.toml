@@ -19,4 +19,4 @@ license = {text = "MIT"}
 pythonpath="src"
 
 [tool.pdm]
-distribution = False 
+distribution = true 
